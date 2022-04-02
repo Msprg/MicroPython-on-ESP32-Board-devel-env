@@ -1,10 +1,10 @@
-#Keď už MicroPython, tak poriadne!
+# Keď už MicroPython, tak poriadne!
 
 Myslím si, že väčšina IDE prostredí ako Thony a uPyCraft je viac vtipom než serióznym nástrojom na vývoj vstavaného software. Keď som ich skúšal bolo tam viac bugov než vo Windows - a to je už čo povedať. Taktiež som nebol jediný ktorý sa pri používaní (alebo skôr trpení) týchto IDE potýkal s nezmyselnými problémami!
 
 Preto vám chcem navrhnúť oveľa robustnejšie riešenie.
 
-#Odporúčané vývojové prostredie
+# Odporúčané vývojové prostredie
 
 VScode s nainštalovaným extension PyMakr. Sú k dispozícií 2 verzie: staršia a novšia(preview).
 
@@ -16,7 +16,7 @@ Potom si ľubovoľným spôsobom dajte vo VScode otvoriť zložku s projektom (a
 
 Po tom, čo otvoríte zložku, a VScode sa reloadne, by sa malo samo spustiť rozšírenie PyMakr a pripojiť sa ku ESP32 (s predpokladom že ju máte pripojenú).
 
-##Základné ovládanie
+## Základné ovládanie
 
 Po úspešnom pripojení ku ESP32 budete dole v termináli vidieť `>>>`.
 
