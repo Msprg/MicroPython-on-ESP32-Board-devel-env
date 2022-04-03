@@ -6,6 +6,8 @@ Preto vám chcem navrhnúť oveľa robustnejšie riešenie.
 
 # Odporúčané vývojové prostredie
 
+Poznámka: Najnovší VScode má nejaké zmeny ktoré spôsobili nekompatibilitu s PyMakr. Musíte si nainštalovať len o pár mesiacov staršiu verziu 1.65.2 . Po inštalácii nezabudnite vypnúť automatické aktualizácie inak sa vám VScode jedného dňa sktualizuje, a prestane to fungovať. Viac info tu: https://github.com/pycom/pymakr-vsc/issues/144#issuecomment-1084408002
+
 VScode s nainštalovaným extension PyMakr. Sú k dispozícií 2 verzie: staršia a novšia(preview).
 
 Zdá sa, že novšia zatiaľ takmer vôbec nefeunguje, takže medzitým je najlepšie používať tú staršiu.
